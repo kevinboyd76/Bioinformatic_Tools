@@ -1,4 +1,4 @@
-# This has github links
+# Github links
 
 ## Sansam Lab Genomics Pipeline Github
 

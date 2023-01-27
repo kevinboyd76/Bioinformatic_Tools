@@ -1,5 +1,8 @@
 # Github links
 
+## Learn Bioinformatics Github
+https://github.com/learn-bioinformatics
+
 ## Sansam Lab Genomics Pipeline Github
 https://github.com/SansamLab-Pipelines-Genomics
 

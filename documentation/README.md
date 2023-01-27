@@ -1,7 +1,6 @@
 # Documentation
 
-| Method                      |
-|                             |
+| **Methods**                 |
 ------------------------------|
 | [DeepTools](#deeptools)     |
 | [SamTools](#samtools)       |

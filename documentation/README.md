@@ -1,16 +1,17 @@
 # Documentation
 
 | Method                      |
+|                             |
 ------------------------------|
 | [DeepTools](#deeptools)     |
 | [SamTools](#samtools)       |
 | [Bowtie2](#bowtie2)         |
-| [Macs2](             |
-| [Sicer2]            |
-| [DESeq2]            | 
-| [Snakemake]         |
-| [DiffBind]          |
-| [RegEx]             |
+| [Macs2](#macs2)             |
+| [Sicer2](#sicer2)           |
+| [DESeq2](#deseq2)           | 
+| [Snakemake](#snakemake)     |
+| [DiffBind](#diffbind)       |
+| [RegEx](#regex)             |
 
 # DeepTools
 ![Alt text](images/deeptools.png)

@@ -66,6 +66,7 @@ There are several different techniques that can be used for batch correction, de
 
 These are just a few examples of the many batch correction methods that are available. The choice of method will depend on the specific data and experimental conditions, as well as the goals of the analysis. It's important to keep in mind that batch correction is not a one-size-fits-all solution and it's important to validate the results with appropriate biological replicates.
 
+It is important to keep in mind that batch correction methods can't necessarily distinguish differences due to batch effects and real biological differences, so some biological signal is always lost.
 
 # Normalize Data
 Data normalization is the process of transforming the values of a dataset so that it conforms to a specific standard. This is often done to improve the performance of machine learning algorithms and make them less sensitive to the scale of the features. It is also done to make two different objects more comparable by setting them on the same scale.

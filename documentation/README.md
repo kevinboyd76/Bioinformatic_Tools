@@ -43,8 +43,8 @@
 # DiffBind
 ![Alt text](images/Bioconductor.png)
 ![Alt text](images/DiffBind.png)
-+ https://github.com/kevinboyd76/Bioinfo_Tools/blob/main/Documentation/DiffBind.pdf
++ https://github.com/kevinboyd76/Bioinformatic_Tools/blob/main/Documentation/DiffBind.pdf
 
 # RegEx
 ![Alt text](images/regex.jpeg)
-+ https://github.com/kevinboyd76/Bioinfo_Tools/blob/main/Documentation/RegX_CheetSheet.pdf
++ https://github.com/kevinboyd76/Bioinformatic_Tools/blob/main/Documentation/RegX_CheetSheet.pdf

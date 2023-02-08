@@ -47,4 +47,4 @@
 
 # RegEx
 ![Alt text](images/regex.jpeg)
-+ https://github.com/kevinboyd76/Bioinformatic_Tools/blob/main/Documentation/RegX_CheetSheet.pdf
++ https://github.com/kevinboyd76/Bioinformatic_Tools/blob/main/documentation/RegX_CheetSheet.pdf
